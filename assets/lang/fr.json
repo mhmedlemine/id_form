@@ -1,0 +1,16 @@
+{
+  "login_start": "Below are list of strings for login",
+  "login_fill_all_fields": "Merci de remplir tous les champs",
+  "login_et_user_phone": "Entrez le numéro de téléphone",
+  "login_et_user_password": "Entrer le mot de passe",
+  "login_btn_sign_in": "Se connecter",
+  "login_error_fill_fields": "Merci de remplir tous les champs",
+  "login_end": "------------------------------------------------------------------------------------",
+
+  "home_start": "Below are list of strings for home",
+  "home_tv_form": "Formulaire",
+  "home_tv_error": "Erreur",
+  "home_tv_choose_language": "Choisissez la langue",
+  "home_end": "-------------------------------------------------------------------------------------"
+
+}
